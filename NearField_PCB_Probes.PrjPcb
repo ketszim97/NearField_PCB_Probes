@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XHLVEZBT
 
 [Document3]
 DocumentPath=NearField_H_Probe.SchDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XHLVEZBT
+DocumentUniqueId=TDKXYIPF
 
 [Document4]
 DocumentPath=..\Libraries\component_libraries\Capacitors.PcbLib
@@ -478,102 +478,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for NearField_PCB_Probes\NearField_PCB_Probes.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
