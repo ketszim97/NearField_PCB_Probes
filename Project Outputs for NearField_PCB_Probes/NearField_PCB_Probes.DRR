@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NearField_PCB_Probes.PcbDoc   2020-07-20  2:45:14 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NearField_PCB_Probes.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             868       PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             22        PTH        0.00inch (0.00mm)
+T3      30mil (0.762mm)                                           Round             28        PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T5      276mil (7mm)                                              Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              923
+
+Two holes at same point : 2
+-----------------------
+669,1077
+669,633
+
+Total Processing Time (hh:mm:ss) : 00:00:00
